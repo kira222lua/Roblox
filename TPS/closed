@@ -1,5 +1,5 @@
 local plr = game.Players.Localplayer
-local key == false
+local key = false
 if Kira.Key == "Kiraloveskittens" then
 key = true
 else
