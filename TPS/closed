@@ -1,7 +1,6 @@
 local plr = game.Players.LocalPlayer
-local key = false
 if Kira.Key == "Kiraloveskittens" then
-key = true
+
 else
 plr:Kick("Wrong key discord kira.222")
 end
