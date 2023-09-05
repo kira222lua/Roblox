@@ -1,1 +1,5 @@
---lol
+if Kira.Key == "KiralovesKittens" then
+
+else
+plr:Kick("Kira loves kittens kira.222 wrong key")
+end
